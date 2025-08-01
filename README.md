@@ -2,7 +2,7 @@
   <img 
     alt="Petrick" 
     title="Pet" 
-    src="/home/pet/petrickmatheus/eudesenho.png" 
+    src="petrickmatheus/eudesenho.png" 
     style="width: 80px; height: auto; border-radius: 8px;"
   />
   <div>
@@ -160,10 +160,8 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrickmatheus&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
-<br>
-<br>
-<br>
+---
+<br/>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/petrickmatheus/petrickmatheus/output/github-contribution-grid-snake-dark.svg">
