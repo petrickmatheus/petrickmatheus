@@ -2,7 +2,7 @@
   <img 
     alt="Petrick" 
     title="Pet" 
-    src="petrickmatheus/eudesenho.png" 
+    src="eudesenho.png" 
     style="width: 80px; height: auto; border-radius: 8px;"
   />
   <div>
