@@ -3,13 +3,20 @@
     alt="Petrick" 
     title="Pet" 
     src="eudesenho.png" 
-    style="width: 80px; height: auto; border-radius: 8px;"
+    style="width: 80px; height: auto; border-radius: 8px; display: block;"
   />
-  <div>
+  <div style="display: flex; flex-direction: column;">
     <h1 style="margin: 0;">Petrick Mateus ☕️</h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=major+mono+display&pause=1000&color=8BAFEE&background=FFFFFF00&width=435&lines=Engenheiro+de+Dados+%F0%9F%8E%B2" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg">
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=major+mono+display&pause=1000&color=8BAFEE&background=FFFFFF00&width=435&lines=Engenheiro+de+Dados+%F0%9F%8E%B2" 
+        alt="Typing SVG" 
+        style="max-width: 100%; height: auto;"
+      />
+    </a>
   </div>
 </div>
+
 <br>
 <p>👋 Opa, bão? Sou o Petrick Mateus, tenho 26 anos e atuo como Engenheiro de Dados. Já são 7 anos de estrada na área de dados, passando por diferentes etapas, desafios e tecnologias — desde quando comecei como DBA até me especializar em soluções analíticas e pipelines escaláveis.</p>
 
