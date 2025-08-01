@@ -16,7 +16,6 @@
     </a>
   </div>
 </div>
-
 <br>
 <p>👋 Opa, bão? Sou o Petrick Mateus, tenho 26 anos e atuo como Engenheiro de Dados. Já são 7 anos de estrada na área de dados, passando por diferentes etapas, desafios e tecnologias — desde quando comecei como DBA até me especializar em soluções analíticas e pipelines escaláveis.</p>
 
