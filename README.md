@@ -17,10 +17,8 @@
   </div>
 </div>
 <br>
-<p>👋 Opa, bão? Sou o Petrick Mateus, tenho 27 anos e atuo como Engenheiro de Dados. São quase 10 anos de estrada na área de dados, passando por diferentes etapas, desafios e tecnologias — desde quando comecei como DBA até me especializar em soluções analíticas e pipelines escaláveis.</p>
-
-<p>Ao longo da minha trajetória, trabalhei com ferramentas como SQL Server, Integration Services, Power BI, Tableau, SAS, MicroStrategy, Access e Python, lidando com tudo: de processos ETL a visualizações e análises estratégicas. Já atuei em ambientes corporativos como Avon, Natura e Zapay, sempre buscando entregar soluções robustas e eficientes.</p>
-
+<!--<p>👋 Opa, bão? Sou o Petrick Mateus, tenho 27 anos e atuo como Engenheiro de Dados. São quase 10 anos de estrada na área de dados, passando por diferentes etapas, desafios e tecnologias — desde quando comecei como DBA até me especializar em soluções analíticas e pipelines escaláveis.</p>
+<p>Ao longo da minha trajetória, trabalhei com ferramentas como SQL Server, Integration Services, Power BI, Tableau, SAS, MicroStrategy, Access e Python, lidando com tudo: de processos ETL a visualizações e análises estratégicas. Já atuei em ambientes corporativos como Avon, Natura e Zapay, sempre buscando entregar soluções robustas e eficientes.</p> -->
 <div> 
     <a href="https://www.youtube.com/@petrickmateus" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/petrickmarques/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -156,7 +154,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=petrickmatheus&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&cache_seconds=86400" 
+    src="https://github-stats-extended.vercel.app/api?username=petrickmatheus&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&cache_seconds=86400" 
   />
 
 <img 
