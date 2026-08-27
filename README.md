@@ -164,6 +164,7 @@
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=petrickmatheus&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400" 
   />
 </p>
+<bv>
 ---
 <br/>
 
