@@ -17,7 +17,7 @@
   </div>
 </div>
 <br>
-<p>👋 Opa, bão? Sou o Petrick Mateus, tenho 26 anos e atuo como Engenheiro de Dados. Já são 7 anos de estrada na área de dados, passando por diferentes etapas, desafios e tecnologias — desde quando comecei como DBA até me especializar em soluções analíticas e pipelines escaláveis.</p>
+<p>👋 Opa, bão? Sou o Petrick Mateus, tenho 27 anos e atuo como Engenheiro de Dados. São quase 10 anos de estrada na área de dados, passando por diferentes etapas, desafios e tecnologias — desde quando comecei como DBA até me especializar em soluções analíticas e pipelines escaláveis.</p>
 
 <p>Ao longo da minha trajetória, trabalhei com ferramentas como SQL Server, Integration Services, Power BI, Tableau, SAS, MicroStrategy, Access e Python, lidando com tudo: de processos ETL a visualizações e análises estratégicas. Já atuei em ambientes corporativos como Avon, Natura e Zapay, sempre buscando entregar soluções robustas e eficientes.</p>
 
